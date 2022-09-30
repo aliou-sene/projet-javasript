@@ -1,0 +1,58 @@
+div{
+	background-color: rgb(14, 231, 32);
+	
+}
+.container {
+	width: 80%;
+	margin-left: 100px;
+	margin-top: 120px;
+	font-family: 'Contrail One', 'cursive';
+}
+
+h1 {
+	width: 80%;
+	margin: 100px;
+	margin-left: 100px;
+	/* margin-top: 120px; */
+	/* padding: 50px 10px; */
+
+} 
+
+.fa-flask {
+	padding-right: 5px;
+} */
+
+.fa-twitter {
+	padding-right: 5px;
+}
+
+blockquote {
+	margin-bottom: 25px;
+	padding: 20px;
+	font-family: 'Caveat', 'cursive';
+	font-size: 28px;
+	background-color: rgb(133, 14, 231);
+	border: 2px solid rgb(236, 230, 230);
+	border-radius: 10px;
+}
+
+.quote {
+	height: auto;
+}
+ footer {
+	padding-top: 10px;
+}
+
+.btn {
+	padding: 6px;
+	margin-left: 200px;
+	margin-right: 20px;
+	font-size: 28px;
+	background-color: rgb(133, 14, 231);
+	border: 2px solid rgb(236, 230, 230);
+	border-radius: 10px;
+}
+
+button#generer, button#twitter {
+	outline: none;
+}
